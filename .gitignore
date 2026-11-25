@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*.zip
+*.sha256
+*.asc
+.DS_Store

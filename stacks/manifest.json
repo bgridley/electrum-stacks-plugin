@@ -1,0 +1,9 @@
+{
+  "name": "stacks",
+  "fullname": "Stacks (STX, sBTC & stBTC)",
+  "description": "Adds support for the Stacks (STX) network, sBTC, and stBTC (SIP-010): derive STX addresses (m/44'/5757'/0'/0/0) or import watch-only addresses, view STX/sBTC/stBTC balances and running-balance history, and sign/broadcast STX, sBTC, and stBTC transfers.",
+  "author": "Electrum Stacks Plugin Contributors",
+  "available_for": ["cmdline", "qt"],
+  "min_electrum_version": "4.6.0",
+  "version": "0.1.0"
+}
